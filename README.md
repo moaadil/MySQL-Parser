@@ -1,6 +1,4 @@
 ## TO RUN :  
-      
-  Commands:  
 
   1)bison -d sql.y  
   2)flex sql.l  
